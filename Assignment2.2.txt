@@ -1,0 +1,4 @@
+The goal was to use a Public Domain work to experiment with CSS. I have used a small sample of "A Lover's Complaint" by William Shakespeare.
+
+HTML Doc- Assignment2.2.HTML
+CSS Doc- Module2Style.CSS
