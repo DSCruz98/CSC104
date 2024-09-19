@@ -1,36 +1,44 @@
-body{
-	background: radial-gradient(#ffe2e2, #ff9898, #ff0000);
-	color: #000000;
+body {
+    background: radial-gradient(#ffe2e2, #ff9898, #ff0000);
+    color: #000000;
 }
 
-.footer{font-style: oblique; font-weight: 100;}
-
-
-h1{
-	color: #000000;
-	text-shadow:0 0 20px rgb(255, 255, 255);
+h1 {
+    color: #000000;
+    text-shadow: 0 0 20px rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
-h2{
-	color: #ffffff;
-	text-shadow:0 0 10px rgb(0, 0, 0);
+h2 {
+    color: #cecece;
+    text-shadow: 0 0 10px rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
-h3{color: #000000;
-	text-shadow:0 0 20px rgb(255, 255, 255);
+p {
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;}
+    text-align: center;
+}
 
-h4{color: #000000;
-	text-shadow:0 0 20px rgb(255, 255, 255);
+h3 {
+    color: #000000;
+    text-shadow: 0 0 20px rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;}
+    text-align: center;
+}
+
+h4 {
+    color: #000000;
+    text-shadow: 0 0 20px rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
 
 
-a:visited{
-	color: rgb(0, 0, 0);
+a:visited {
+    color: rgb(0, 0, 0);
 }
