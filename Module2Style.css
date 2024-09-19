@@ -1,8 +1,10 @@
+/* Red seems fiiting here */
 body {
-    background: radial-gradient(#ffe2e2, #ff9898, #ff0000);
+    background: radial-gradient(#ffc8c8, #ff9898, #ff0000);
     color: #000000;
 }
 
+/* Title of Poem */
 h1 {
     color: #000000;
     text-shadow: 0 0 20px rgb(255, 255, 255);
@@ -10,6 +12,7 @@ h1 {
     text-align: center;
 }
 
+/* Author Credit */
 h2 {
     color: #cecece;
     text-shadow: 0 0 10px rgb(0, 0, 0);
@@ -17,6 +20,7 @@ h2 {
     text-align: center;
 }
 
+/* Main Body */
 p {
     color: #ffffff;
     text-shadow: 0 0 10px rgb(0, 0, 0);
@@ -24,6 +28,7 @@ p {
     text-align: center;
 }
 
+/* Description of Links */
 h3 {
     color: #000000;
     text-shadow: 0 0 20px rgb(255, 255, 255);
@@ -31,6 +36,7 @@ h3 {
     text-align: center;
 }
 
+/* Links */
 h4 {
     color: #000000;
     text-shadow: 0 0 20px rgb(255, 255, 255);
@@ -38,7 +44,7 @@ h4 {
     text-align: center;
 }
 
-
+/* Hyperlink Details */
 a:visited {
     color: rgb(0, 0, 0);
 }
