@@ -12,6 +12,10 @@ h2 {
     text-align: center;
     margin-left: 160px;
     color: #ffffff;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: .2px;
 }
 
 
@@ -27,30 +31,43 @@ h1 {
 
 .center {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 30%;
+    align-items: center;
+    margin-left: 710px;
+    /*Manually alligned*/
 }
 
 h3 {
     /* main text */
-    color: #110100;
-    -webkit-text-stroke-color: #ff0000;
-    -webkit-text-stroke-width: 0.5px;
-    text-shadow: 0 0 5px rgb(0, 0, 0);
-    font-family: times new roman, arial;
+    color: #000000;
+    font-size: 30px;
+    -webkit-text-stroke-color: #ffffff;
+    -webkit-text-stroke-width: .2px;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     margin-left: 160px;
     /* Same as the width of the sidenav */
     padding: 0px 10px;
 }
 
-h4 {
+h4{
+    margin-left: 160px;
+    color: #004bbb;
+    font-size: 20px;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: .2px;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h5 {
     /* WOTC Trademark */
     color: #04fcdb;
     text-shadow: 0 0 2px rgb(0, 0, 0);
     font-family: times new roman, arial;
     text-align: center;
+    margin-left: 160px;
 }
 
 .sidenav {
@@ -77,3 +94,11 @@ h4 {
 .sidenav a:hover {
     color: #f1f1f1;
 }
+
+table, th, td {
+    border:5px solid rgb(78, 6, 6);
+    text-shadow: 1px 1px 1px;
+    color: #ffffff;
+    margin-left: 160px;
+  }
+
